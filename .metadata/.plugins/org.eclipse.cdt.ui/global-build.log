@@ -1,0 +1,24 @@
+Nothing to build in platform 'ZynqSystem_wrapper'
+
+15:02:41 **** Incremental Build of configuration Debug for project Counter_LedSwitch_Zedboard ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+make --no-print-directory main-build
+'Building file: ../src/Counter_LedSwitch_Zedboard.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/Counter_LedSwitch_Zedboard.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -ID:/Projects/SOC_Projects/Counter_LedSwitch_Zedboard/ZynqSystem_wrapper/export/ZynqSystem_wrapper/sw/ZynqSystem_wrapper/standalone_ps7_cortexa9_0/bspinclude/include -MMD -MP -MF"src/Counter_LedSwitch_Zedboard.d" -MT"src/Counter_LedSwitch_Zedboard.o" -o "src/Counter_LedSwitch_Zedboard.o" "../src/Counter_LedSwitch_Zedboard.c"
+'Finished building: ../src/Counter_LedSwitch_Zedboard.c'
+' '
+'Building target: Counter_LedSwitch_Zedboard.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -LD:/Projects/SOC_Projects/Counter_LedSwitch_Zedboard/ZynqSystem_wrapper/export/ZynqSystem_wrapper/sw/ZynqSystem_wrapper/standalone_ps7_cortexa9_0/bsplib/lib -o "Counter_LedSwitch_Zedboard.elf"  ./src/Counter_LedSwitch_Zedboard.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Counter_LedSwitch_Zedboard.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Counter_LedSwitch_Zedboard.elf  |tee "Counter_LedSwitch_Zedboard.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24352	   1176	  22616	  48144	   bc10	Counter_LedSwitch_Zedboard.elf
+'Finished building: Counter_LedSwitch_Zedboard.elf.size'
+' '

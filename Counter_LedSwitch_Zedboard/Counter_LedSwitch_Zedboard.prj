@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="Counter_LedSwitch_Zedboard" location="D:/Projects/SOC_Projects/Counter_LedSwitch_Zedboard/Counter_LedSwitch_Zedboard" platform="D:/Projects/SOC_Projects/Counter_LedSwitch_Zedboard/ZynqSystem_wrapper/export/ZynqSystem_wrapper/ZynqSystem_wrapper.xpfm" platformUID="xilinx:zed::0.0(custom)" systemProject="Counter_LedSwitch_Zedboard_system" sysConfig="ZynqSystem_wrapper" runtime="cpp" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="902e178c2cbf58790095bb21f3085b7b">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.714061427">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1271018047" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>
