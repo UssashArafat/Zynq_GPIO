@@ -23,3 +23,8 @@ ___________________________________________________
 
 
  ###### For Johnson counter and Fibonacci counter, all the LEDs need to be off before starting because these two counters need special initialization condition.
+
+------------------------------------------------------------------------------------------------------------------------
+
+#### For Video demonstration click the image bellow
+[![Alt text](https://img.youtube.com/vi/I0eu_Y3pMmM/0.jpg)](https://www.youtube.com/watch?v=I0eu_Y3pMmM)
