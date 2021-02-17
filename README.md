@@ -22,4 +22,4 @@ ___________________________________________________
  | 0x07  | Fibonacci Counter  |
 
 
- ###### For Johnson counter and Fibonacci counter, all the LEDs needed to be off before starting because these two counters need special initialization conditions.
+ ###### For Johnson counter and Fibonacci counter, all the LEDs need to be off before starting because these two counters need special initialization condition.
