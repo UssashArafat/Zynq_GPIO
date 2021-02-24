@@ -4,7 +4,7 @@
 
 #### Tools:  	Vivado 2020.2 | Xilinx Vitis 2020.2 |
 #### Device: 	Zedboard                            |
-___________________________________________________
+---------------------------------------------------------------------------------------------------------
 
 
 ##### After uploading the hardware file and the software file into the Zedboard, the LEDs are supposed to perform different types of counter operations depending the status of the switches. 
