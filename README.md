@@ -26,5 +26,5 @@
 
 ------------------------------------------------------------------------------------------------------------------------
 
-#### For Video demonstration click the image bellow
+#### For Video demonstration click the image below
 [![Alt text](https://img.youtube.com/vi/9csz9CPS2k8/0.jpg)](https://www.youtube.com/watch?v=9csz9CPS2k8)
