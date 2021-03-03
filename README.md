@@ -2,7 +2,7 @@
 ### A software application on ARM processing system to control hardware that is implemented in programmable logic.
 -------------------------------------------------------------------------------------------------------------------
 
-#### Tools:  	Vivado 2020.2 | Xilinx Vitis 2020.2 |
+#### Tools:  	Vivado 2020.2 | Xilinx Vitis 2020.2 | Tera Term 4.105 |
 #### Device: 	Zedboard                            |
 ---------------------------------------------------------------------------------------------------------
 
